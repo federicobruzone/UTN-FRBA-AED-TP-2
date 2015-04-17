@@ -4,7 +4,7 @@ int main() {
 	
 	using namespace std;
 	int x;
-	int c = 0x1;
+	int c = 1;
 	
 	cout << "Inserte el numero cuya paridad desea determinar: ";
 	cin >> x;
