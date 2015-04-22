@@ -38,6 +38,6 @@ int main() {
 	// if (x & c) {cout << "No es par";} // 
 	// else {cout << "Es par";}
 	
-	if (x % 2 == 0) {cout << "No es par";} 
+	if (x % 2 == 1) {cout << "No es par";} 
 	else {cout << "Es par";}
 }
