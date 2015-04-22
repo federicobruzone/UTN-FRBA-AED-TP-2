@@ -1,16 +1,30 @@
 // Output 1:
 
+        +---------------------------------+
+        |Algoritmos y Estructuras de Datos|
+        |UTN-FRBA-Curso K1091             |
+        |TP No 2 - Paridad de enteros     |
+        +---------------------------------+
+
+
 Inserte el numero cuya paridad desea determinar: 444444
 Es par
 --------------------------------
-Process exited after 7.115 seconds with return value 0
+Process exited after 3.769 seconds with return value 0
 Presione una tecla para continuar . . .
 
 // Output 2:
 
 
+        +---------------------------------+
+        |Algoritmos y Estructuras de Datos|
+        |UTN-FRBA-Curso K1091             |
+        |TP No 2 - Paridad de enteros     |
+        +---------------------------------+
+
+
 Inserte el numero cuya paridad desea determinar: 999999
 No es par
 --------------------------------
-Process exited after 4.01 seconds with return value 0
+Process exited after 2.76 seconds with return value 0
 Presione una tecla para continuar . . .
