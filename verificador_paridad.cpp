@@ -22,7 +22,7 @@ int main() {
 	
 	using namespace std;
 	int x;
-	//int c = 0x1;
+	int c = 0x1;
 	
 	imprimBanner();
 	cout << "Inserte el numero cuya paridad desea determinar: ";
@@ -35,9 +35,6 @@ int main() {
 	// que equivale al valor booleano de 'true'. En caso contrario la expresión se evalua
 	// igual a 0x0, que equivale al valor booleano de 'false'.
 	
-	// if (x & c) {cout << "No es par";} // 
-	// else {cout << "Es par";}
-	
-	if (x % 2 == 1) {cout << "No es par";} 
+	if (x & c) {cout << "No es par";} 
 	else {cout << "Es par";}
 }
